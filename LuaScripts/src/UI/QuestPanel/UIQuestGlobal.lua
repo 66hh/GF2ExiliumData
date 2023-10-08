@@ -1,0 +1,2 @@
+UIQuestGlobal = {}
+UIQuestGlobal.cachedTabIndex = nil

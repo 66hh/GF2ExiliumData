@@ -1,0 +1,4 @@
+DarkZoneMakeGlobal = {}
+DarkZoneMakeGlobal.State_IsLock = CS.DarkNetCmdMakeTableData.DarkZoneFormualState.IsLock
+DarkZoneMakeGlobal.State_IsNotEnough = CS.DarkNetCmdMakeTableData.DarkZoneFormualState.IsNotEnough
+DarkZoneMakeGlobal.State_CanProduce = CS.DarkNetCmdMakeTableData.DarkZoneFormualState.CanProduce
